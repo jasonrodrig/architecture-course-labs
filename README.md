@@ -64,7 +64,7 @@ The simulator correctly updates registers, memory, and the program counter (PC) 
 ---
 
 ## 👨‍💻 Author
-- **Jason Rodrigues**
-- **EMP ID : 6078**
+**Jason Linus Rodrigues**
+
 
 ---
