@@ -53,6 +53,9 @@ It supports **R-type, I-type, and J-type instructions**, simulating instruction 
 - **Update** : Write results to NEXT_STATE, memory, or special registers.
 - **Commit** : Copy NEXT_STATE → CURRENT_STATE.
 
+### 🧪 Flowchart for the MIPS Instruction Set Simulator
+ <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/2ca3af57-1a36-413c-b236-37052d8d84db" />
+
 ---
 
 ## 📊 Results
